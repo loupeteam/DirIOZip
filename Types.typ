@@ -1,3 +1,10 @@
+(*
+ * File: Types.typ
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of DirIOZip, licensed under the MIT License.
+ *)
 
 TYPE
 	DataObjectToFolder_typ : 	STRUCT 

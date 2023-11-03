@@ -1,13 +1,11 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: DirIOWrap
- * File: DirIOWrap.fun
- * Author: Josh
- * Created: April 24, 2015
- ********************************************************************
- * Functions and function blocks of library DirIOWrap
- ********************************************************************)
+(*
+ * File: DirIOZip.fun
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of DirIOZip, licensed under the MIT License.
+ *)
+
 
 FUNCTION_BLOCK FolderToDataObj (* *) (*$GROUP=User,$CAT=User,$GROUPICON=User.png,$CATICON=User.png*)
 	VAR_INPUT
