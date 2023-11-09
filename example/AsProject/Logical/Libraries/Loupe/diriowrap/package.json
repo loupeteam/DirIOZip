@@ -1,0 +1,18 @@
+{
+  "name": "@loupeteam/diriowrap",
+  "version": "0.0.8",
+  "description": "Loupe's diriowrap library for Automation Runtime",
+  "homepage": "https://loupeteam.github.io/LoupeDocs/libraries/diriowrap.html",
+  "scripts": {},
+  "keywords": [],
+  "author": "Loupe",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loupeteam/diriowrap"
+  },
+  "lpm": {
+    "type": "library"
+  },
+  "dependencies": {}
+}
