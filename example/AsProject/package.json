@@ -10,7 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@loupeteam/diriowrap": "^0.0.8",
+    "@loupeteam/diriowrap": "^1.0.0",
     "@loupeteam/librarybuilderproject": "^1.0.0"
   }
 }
