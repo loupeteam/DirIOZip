@@ -12,6 +12,6 @@
     <Dependency ObjectName="FileIO" />
     <Dependency ObjectName="DataObj" />
     <Dependency ObjectName="AsZip" />
-    <Dependency ObjectName="DirIOWrap" />
+    <Dependency ObjectName="DirIOWrap" FromVersion="1.0.0" />
   </Dependencies>
 </Library>
