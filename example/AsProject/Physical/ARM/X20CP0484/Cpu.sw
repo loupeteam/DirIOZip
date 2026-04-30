@@ -38,7 +38,7 @@
     <LibraryObject Name="runtime" Source="Libraries._AS.runtime.lby" Memory="UserROM" Language="binary" Debugging="true" />
     <LibraryObject Name="standard" Source="Libraries._AS.standard.lby" Memory="UserROM" Language="binary" Debugging="true" />
     <LibraryObject Name="sys_lib" Source="Libraries._AS.sys_lib.lby" Memory="UserROM" Language="binary" Debugging="true" />
-    <LibraryObject Name="DirIOWrap" Source="Libraries.Loupe.DirIOWrap.lby" Memory="UserROM" Language="ANSIC" Debugging="true" />
+    <LibraryObject Name="diriowrap" Source="Libraries.Loupe.diriowrap.lby" Memory="UserROM" Language="Binary" Debugging="true" />
     <LibraryObject Name="DirIOZip" Source="Libraries.Loupe.DirIOZip.lby" Memory="UserROM" Language="ANSIC" Debugging="true" />
   </Libraries>
 </SwConfiguration>

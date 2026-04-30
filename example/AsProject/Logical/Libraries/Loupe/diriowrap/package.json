@@ -1,0 +1,18 @@
+{
+  "name": "@loupeteam/diriowrap",
+  "version": "1.0.0",
+  "description": "Directory IO wrapper library for B&R Automation Studio",
+  "homepage": "https://loupeteam.github.io/LoupeDocs/libraries/diriowrap.html",
+  "scripts": {},
+  "keywords": [],
+  "author": "Loupe",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loupeteam/DirIOWrap"
+  },
+  "lpm": {
+    "type": "library"
+  },
+  "dependencies": {}
+}
